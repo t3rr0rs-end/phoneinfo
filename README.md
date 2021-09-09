@@ -1,6 +1,6 @@
 prerequisites
 
-python3
+python3 (install it using your package manager in linux or install it for windows)
 
 this tool will work on linux (android included) and windows (possibly mac os too)
 
